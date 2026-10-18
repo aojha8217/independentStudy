@@ -1,0 +1,12 @@
+{
+  "name": "empire-party-game",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A live, link-based party game for anonymous answers and guessing who said what.",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" }
+}

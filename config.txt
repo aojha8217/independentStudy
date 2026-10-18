@@ -1,7 +1,0 @@
-Access_Key=AKIAJ3HLT6DGWTFFJQ5Q
-Secrete_Key=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
-Seller_ID=A8WXURQUQ4AQ3
-MWS_AuthToken=amzn.mws.70abfaa1-f503-4830-56b5-6e326130fe45
-CreateAfterDate=2017-01-01
-CreateBeforeDate=2018-03-20 
-MarketPlaceID=ATVPDKIKX0DER
